@@ -14,7 +14,7 @@ okay so I suppose not many people who came here know hnow to do this shit so I'm
 _the scripts are running on python 3.x_
 _that is a very important information because the most of the errors you'll get are because of running it on python 2.x_
 
-(go here)[https://www.python.org/downloads/release/python-370/] , scroll down and choose your preferred version 
+[go here](https://www.python.org/downloads/release/python-370/) , scroll down and choose your preferred version 
 
 blah blah blah take steps according to the installer or however do you want JUST INSTALL THE SHIT
 
@@ -54,7 +54,7 @@ Explaining the functions of the files:
 **7: x**  - all this script does is it creates the path in config, you won't really need it
 
 okay. now when you understand the scripts, you can start configuring. now, if you want the full functionality, you'll need a reddit account and a reddit "app"
-so go here: https://www.reddit.com/prefs/apps, scroll down and click on 'create another app...'
+so [go here](https://www.reddit.com/prefs/apps), scroll down and click on 'create another app...'
 
 now answer all the input fields honestly (I'm fucking kidding I don't care what you'll type there but I ain't responsible for that shit)
 
