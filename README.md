@@ -76,7 +76,7 @@ a new block with some important things will show up
 
 leave the window open and open **config.py** with your favourite text editor (or just rightclick and click edit with IDLE.
 now fill your reddit username and password in the brackets. now get back to your browser window. there will be a bunch of characters under the `personal use script` text. copy that and paste it between the `client_id` brackets. Get back to the browser again and copy the `secret` and paste it between `client_secret` brackets
-now scroll down to the `path` and write down your desired path. (NOTE: if on Windows use \\ instead of \ because python is stupid. also don't forget to add a final \\ at the end of the directory (EXAMPLE: `D:\\porn\\hentai\\actuallynothentaibutmemesyouhavebeenfuckingrickrolled\\`))
+now scroll down to the `path` and write down your desired path. (NOTE: if on Windows, use `\\` instead of `\` because python is stupid. also don't forget to add a final \\ at the end of the directory (EXAMPLE: `D:\\porn\\hentai\\actuallynothentaibutmemesyouhavebeenfuckingrickrolled\\`))
 in the finalpath just paste your path name and add final\\ at the end (`D:\\porn\\hentai\\actuallynothentaibutmemesyouhavebeenfuckingrickrolled\\final\\`)
 
 now save the file and close your browser. - you can test the download feature now:
