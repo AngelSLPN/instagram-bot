@@ -25,7 +25,7 @@ probably give you an error - that's because you don't have the needed modules in
 
 # 2: install needed packages (modules)
 
-NOW: open command line (win key+R, type in `cmd` and hit run)
+NOW: open the command line (win key+R, type in `cmd` and hit run)
 supposing you've installed your python distribution in the C:\ root, just paste in this command: 
 `C:\python37\Scripts`
 now you gotta paste every single of these lines and wait for the commands to execute
@@ -104,6 +104,6 @@ if even this works, the bot should be ready for work!
 
 # 4: running the bot
 
-~~what are you stupid why are you reading this???~~ the only thing you really need to do now is to run `0DOWNLOAD`, `0CROP`, `0POST` and `0CLEARDIR` and just enjoy.
+~~why are you reading this???~~ the only thing you really need to do now is to run `0DOWNLOAD`, `0CROP`, `0POST` and `0CLEARDIR` and just enjoy.
 
 ## ENJOY!
